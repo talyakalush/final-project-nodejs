@@ -48,5 +48,7 @@ Install Node.js and NPM on your server.
 ### Environment Settings:
 
 Configure environment settings, including the database path, API keys, and other settings in the .env file.
+*CLIENT_ID=942364658482-6vkf4as7upv3fg38a7icrrk3kl84rn6d.apps.googleusercontent.com
 
 https://documenter.getpostman.com/view/32069346/2sA3BkbCsK
+
